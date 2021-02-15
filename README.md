@@ -1,5 +1,5 @@
-# kaggle
-kaggle 필사하기
+# Kaggle
+Kaggle 필사하기
 
 - Bike_Sharing_Demand
 - IMDB_movie_review
